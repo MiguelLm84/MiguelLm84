@@ -1,4 +1,4 @@
-[![octo.gif](https://i.postimg.cc/bNKvzPW2/octo.gif)](https://postimg.cc/WhwVnB22)  ![name](https://user-images.githubusercontent.com/72008078/172392003-d834cc52-f2bf-4a38-82ab-103b789279b3.svg)
+[![octo.gif](https://i.postimg.cc/bNKvzPW2/octo.gif)](https://postimg.cc/WhwVnB22)  ![name](https://user-images.githubusercontent.com/72008078/172396016-24060d37-1d0f-4f9b-881b-dc667a70b79d.svg)
 ### print(Hi there 👋)
 
 <!--
